@@ -2053,19 +2053,22 @@ input[type="color"]:focus {
 }
 
 /* Twitter */
-.fa-twitter-square:hover {
+.fa-twitter:hover {
     color: #55ACEE;
 }
 
 /*Instagram*/
-.fa-instagram-square:hover {
+.fa-instagram:hover {
 	color: #8a3ab9;
 }
 
+.fa-heart:hover {
+	color:red;
+}
 
-
-
-
+.fa-google-plus {
+	color:red;
+}
 
 
 
