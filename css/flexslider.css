@@ -312,6 +312,7 @@ html[xmlns] .slides {display: block;}
 /* Caption */
 .top_slider .slide1 {
 	height:100%;
+	width: 100%;
 	background-image:url(../images/slider/carousel.jpg);
 	background-size:cover;
 	background-attachment:fixed !important;
@@ -339,6 +340,7 @@ html[xmlns] .slides {display: block;}
 
 .top_slider .slide2 {
 	height:100%;
+	width: 100%;
 	background-image:url(../images/slider/carousel1.jpg);
 	background-size:cover;
 	background-attachment:fixed !important;
@@ -365,6 +367,7 @@ html[xmlns] .slides {display: block;}
 
 .top_slider .slide3 {
 	height:100%;
+	width: 100%;
 	background-image:url(../images/slider/carousel2.jpg);
 	background-repeat:no-repeat;
 	background-size:cover;
